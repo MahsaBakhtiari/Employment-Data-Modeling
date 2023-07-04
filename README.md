@@ -57,7 +57,7 @@ To utilize this project for data analysis, follow these steps:
 
 ## Contributing
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please submit a pull request or open an issue on the GitHub repository.
+Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please submit a pull  request or open an issue on the GitHub repository.
 
 ## Resources
 
